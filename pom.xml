@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>test</groupId>
     <artifactId>simple-maven-project-with-tests</artifactId>
-    <version>${version}</version>
+    <version>0.1.${v}-SNAPSHOT</version>
     <packaging>jar</packaging>
     <licenses>
         <license>
